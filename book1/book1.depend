@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554923478 source:c:\users\govind press\documents\lab\book1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

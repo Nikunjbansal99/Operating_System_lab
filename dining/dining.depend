@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574063169 source:c:\users\govind press\documents\lab\dining\main.c
+	<pthread.h>
+	<semaphore.h>
+	<stdio.h>
+
